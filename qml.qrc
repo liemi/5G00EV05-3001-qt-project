@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/needleblue.png</file>
+        <file>assets/needleorange.png</file>
+        <file>assets/needlered.png</file>
+        <file>assets/speedo.png</file>
+        <file>assets/tacho.png</file>
+        <file>Dashboard.qml</file>
+        <file>EngineData.qml</file>
+        <file>Tachometer.qml</file>
+        <file>Speedmeter.qml</file>
+        <file>LeftTurnSignal.qml</file>
+        <file>RightTurnSignal.qml</file>
+        <file>Fuel.qml</file>
+        <file>assets/fuel_1.png</file>
+        <file>assets/fuel_2.png</file>
+        <file>assets/fuel_3.png</file>
+        <file>assets/fuel_4.png</file>
+        <file>assets/fuel_5.png</file>
+        <file>Button.qml</file>
+        <file>assets/left_1.png</file>
+        <file>assets/left_0.png</file>
+        <file>assets/right_0.png</file>
+        <file>assets/right_1.png</file>
+    </qresource>
+</RCC>
