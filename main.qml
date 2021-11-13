@@ -84,10 +84,4 @@ Window {
         }
     }
 
-//    MouseArea {
-//        anchors.fill: dashboard
-//        onClicked: {
-//            speedEngine.generateSpeed()
-//        }
-//    }
 }
